@@ -51,3 +51,4 @@ matplotlib
 scipy
 seaborn
 scikit-learn
+qutip
